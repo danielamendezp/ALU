@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1621874218">
+  <File Type="OPT-HWDEF" Name="XOR2ENTRADAS.hwdef"/>
+  <File Type="PA-DCP" Name="XOR2ENTRADAS.dcp"/>
+  <File Type="OPT-DCP" Name="XOR2ENTRADAS_opt.dcp"/>
+  <File Type="ROUTE-PWR" Name="XOR2ENTRADAS_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="XOR2ENTRADAS.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="XOR2ENTRADAS_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="XOR2ENTRADAS_reports.tcl"/>
+  <File Type="BG-DRC" Name="XOR2ENTRADAS.drc"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="XOR2ENTRADAS_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="XOR2ENTRADAS_timing_summary_init.rpt"/>
+  <File Type="OPT-DRC" Name="XOR2ENTRADAS_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="XOR2ENTRADAS_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="XOR2ENTRADAS_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="XOR2ENTRADAS_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="XOR2ENTRADAS_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="XOR2ENTRADAS_placed.dcp"/>
+  <File Type="PLACE-IO" Name="XOR2ENTRADAS_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="XOR2ENTRADAS_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="XOR2ENTRADAS_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="XOR2ENTRADAS_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="XOR2ENTRADAS_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="XOR2ENTRADAS_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="XOR2ENTRADAS_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="XOR2ENTRADAS_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="XOR2ENTRADAS_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="XOR2ENTRADAS_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="XOR2ENTRADAS_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="XOR2ENTRADAS_drc_physopted.rpt"/>
+  <File Type="BG-BIT" Name="XOR2ENTRADAS.bit"/>
+  <File Type="PHYSOPT-TIMING" Name="XOR2ENTRADAS_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="XOR2ENTRADAS_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="XOR2ENTRADAS_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="XOR2ENTRADAS_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="XOR2ENTRADAS_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="XOR2ENTRADAS_drc_routed.pb"/>
+  <File Type="BITSTR-MSK" Name="XOR2ENTRADAS.msk"/>
+  <File Type="ROUTE-DRC-RPX" Name="XOR2ENTRADAS_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="XOR2ENTRADAS.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="XOR2ENTRADAS_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-RBT" Name="XOR2ENTRADAS.rbt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="XOR2ENTRADAS_methodology_drc_routed.rpx"/>
+  <File Type="BG-BIN" Name="XOR2ENTRADAS.bin"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="XOR2ENTRADAS_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="XOR2ENTRADAS_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="XOR2ENTRADAS_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="XOR2ENTRADAS_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="XOR2ENTRADAS_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="XOR2ENTRADAS_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="XOR2ENTRADAS_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="XOR2ENTRADAS_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="XOR2ENTRADAS.vdi"/>
+  <File Type="ROUTE-CLK" Name="XOR2ENTRADAS_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="XOR2ENTRADAS_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="XOR2ENTRADAS_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="XOR2ENTRADAS_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="XOR2ENTRADAS_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="XOR2ENTRADAS_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="XOR2ENTRADAS.nky"/>
+  <File Type="BITSTR-BMM" Name="XOR2ENTRADAS_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="XOR2ENTRADAS.mmi"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="XOR2ENTRADAS.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="XOR2ENTRADAS.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/XOR2ENTRADAS.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="XOR2ENTRADAS"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/XORPIN.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/XORPIN.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

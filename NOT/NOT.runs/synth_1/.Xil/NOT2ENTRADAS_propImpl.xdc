@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:{C:/Users/Usuario/Documents/II Cuatrimestre 2021/Dispositivos_Logica_Programable/Tareas/Xilinx_projects/NOT/NOT.srcs/constrs_1/new/NOTpines.xdc} rfile:../../../NOT.srcs/constrs_1/new/NOTpines.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V16 [get_ports A]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U16 [get_ports nA]

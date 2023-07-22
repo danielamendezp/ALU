@@ -1,0 +1,6 @@
+set_property IOSTANDARD LVTTL [get_ports X]
+set_property IOSTANDARD LVTTL [get_ports Y]
+set_property IOSTANDARD LVTTL [get_ports Z]
+set_property PACKAGE_PIN V16 [get_ports X]
+set_property PACKAGE_PIN V17 [get_ports Y]
+set_property PACKAGE_PIN U16 [get_ports Z]

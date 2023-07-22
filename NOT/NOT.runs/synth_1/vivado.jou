@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Mon May 24 10:16:36 2021
+# Process ID: 15056
+# Current directory: C:/Users/Usuario/Documents/II Cuatrimestre 2021/Dispositivos_Logica_Programable/Tareas/Xilinx_projects/NOT/NOT.runs/synth_1
+# Command line: vivado.exe -log NOT2ENTRADAS.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source NOT2ENTRADAS.tcl
+# Log file: C:/Users/Usuario/Documents/II Cuatrimestre 2021/Dispositivos_Logica_Programable/Tareas/Xilinx_projects/NOT/NOT.runs/synth_1/NOT2ENTRADAS.vds
+# Journal file: C:/Users/Usuario/Documents/II Cuatrimestre 2021/Dispositivos_Logica_Programable/Tareas/Xilinx_projects/NOT/NOT.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source NOT2ENTRADAS.tcl -notrace
